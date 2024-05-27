@@ -1,19 +1,22 @@
-<h1 align="center">Herzlich Wilkommen auf dieser Seite</h1>
+<h1 align="center">Hello everyone!</h1>
 
-Meine Hobbys:
-- Sport
-  - Tischtennis
-  - Fitness
- - Wandern
- - Reisen
+I´m currently learning how to code at neue fische for the next three months.
+Here are some topics from the curriculum:
 
-![eine rote Katze](https://images.tagesschau.de/image/4dddadc5-e727-492d-be9b-149907db8703/AAABjJD0bXo/AAABjwnlVT8/20x9-1280/katze-134.webp)
+- HTML
+- CSS
+- JavaScript
+- react
+- NodeJS
 
-Weitere Dinge, die ich mag:
-- Tiere, besonders:
-    - Orcas
-    - Katzen
-    - Hunde
-- Serien schauen
-- Zeit für mich allein
+Here are some things I like to do in my spare time
+- Hiking ⛰️
+- Cycling 🚲
+- Playing table tennis 🏓
+- Traveling the world 🌏
 
+
+
+
+
+[![MoritzBhl's github stats](https://github-readme-stats.vercel.app/api?username=MoritzBhl)](https://github.com/anuraghazra/github-readme-stats)
