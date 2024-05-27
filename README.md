@@ -1,9 +1,9 @@
-# Herzlich Wilkommen auf dieser Seite
+<h1 align="center">Herzlich Wilkommen auf dieser Seite</h1>
 
 Meine Hobbys:
 - Sport
-  1. Tischtennis
-  2. Fitness
+  - Tischtennis
+  - Fitness
  - Wandern
  - Reisen
 
@@ -16,3 +16,4 @@ Weitere Dinge, die ich mag:
     - Hunde
 - Serien schauen
 - Zeit für mich allein
+
